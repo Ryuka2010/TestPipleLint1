@@ -1,2 +1,0 @@
-# TestPipleLint
-CICD Testing
